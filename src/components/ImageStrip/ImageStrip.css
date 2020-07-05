@@ -1,0 +1,18 @@
+.loader {
+  width: 100%;
+  margin: auto;
+}
+
+.strip {
+  display: flex;
+  justify-content: center;
+}
+
+.stripItem:last-child {
+  padding-right: 0 !important;
+}
+
+.stripItem img {
+  width: 100%;
+  height: auto;
+}
