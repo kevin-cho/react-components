@@ -1,7 +1,10 @@
 import React from 'react';
 import ImageStrip from '.';
 
-export default { title: 'ImageStrip' };
+export default {
+  title: 'ImageStrip',
+  component: ImageStrip
+};
 
 export const Landscape = () => (
   <ImageStrip imageURLs={[
