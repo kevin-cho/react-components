@@ -1,6 +1,7 @@
 # react-components
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project uses [Storybook](https://storybook.js.org/docs/basics/introduction/) to create a visual library of reusable components.<br />
+Bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
