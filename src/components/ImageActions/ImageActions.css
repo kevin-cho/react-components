@@ -1,0 +1,10 @@
+img {
+  max-width: 500px;
+  max-height: 500px;
+  transition: transform 0.25s linear;
+}
+
+.material-icons {
+  cursor: pointer;
+  user-select: none;
+}
